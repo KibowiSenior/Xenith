@@ -475,7 +475,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             </svg>
         </div>
         <div class="header-text">
-            <h1>MC <span>Scanner</span></h1>
+            <h1><span></span></h1>
             <p>// fast async minecraft server detector</p>
         </div>
     </header>
